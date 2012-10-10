@@ -5,7 +5,7 @@
 	"branch":     "jellybean"
   },
   {
-	"repository": "SlimRoms/android_device_samsung_msm8660-common",
+	"repository": "SlimRoms/device_samsung_msm8660-common",
 	"target_path": "device/samsung/msm8660-common",
 	"branch": "jb"
   },
@@ -15,7 +15,7 @@
 	"branch": "jellybean"
   },
   {
-	"repository": "SlimRoms/android_device_samsung_qcom-common",
+	"repository": "SlimRoms/device_samsung_qcom-common",
 	"target_path": "device/samsung/qcom-common",
 	"branch": "jb"
   }
