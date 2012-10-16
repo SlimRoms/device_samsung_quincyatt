@@ -1,8 +1,8 @@
 [
   {
-	"repository":   "TheMuppets/proprietary_vendor_samsung",
+	"repository":   "SlimRoms/proprietary_vendor_samsung",
 	"target_path":  "vendor/samsung",
-	"branch":     "jellybean"
+	"branch":     "jb"
   },
   {
 	"repository": "SlimRoms/device_samsung_msm8660-common",
@@ -10,7 +10,7 @@
 	"branch": "jb"
   },
   {
-	"repository": "CyanogenMod/android_device_samsung_quincy-common",
+	"repository": "SlimRoms/android_device_samsung_quincy-common",
 	"target_path": "device/samsung/quincy-common",
 	"branch": "jellybean"
   },
