@@ -18,6 +18,9 @@ $(call inherit-product, vendor/slim/config/common_full_phone.mk)
 # Inherit device settings
 $(call inherit-product, vendor/slim/config/common_sgs.mk)
 
+# Inherit torch settings
+$(call inherit-product, vendor/slim/config/common_ledflash.mk)
+
 #copy boot animation
 PRODUCT_COPY_FILES +=  \
     vendor/slim/prebuilt/hdpi/bootanimation.zip:system/media/bootanimation.zip
