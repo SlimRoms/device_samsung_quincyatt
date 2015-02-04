@@ -1,2 +1,2 @@
-add_lunch_combo cm_quincyatt-eng
+add_lunch_combo slim_quincyatt-eng
 
