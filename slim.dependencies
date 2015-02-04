@@ -1,0 +1,32 @@
+[
+    {
+        "repository": "SlimRoms/hardware_qcom_display-caf",
+        "target_path": "hardware/qcom/display-caf/msm8660",
+        "branch": "lp5.0-caf-8660"
+    },
+    {
+        "repository": "SlimDev/hardware_qcom_audio-caf",
+        "target_path": "hardware/qcom/audio-caf/msm8660",
+        "branch": "lp5.0-caf-8960"
+    },
+    {
+        "repository": "SlimRoms/hardware_qcom_media-caf",
+        "target_path": "hardware/qcom/media-caf/msm8660",
+        "branch": "lp5.0-caf-8660"
+    },
+    {
+        "repository": "SlimDev/device_samsung_msm8660-common",
+        "target_path": "device/samsung/msm8660-common",
+        "branch": "lp5.0"
+    },
+    {
+        "repository": "SlimDev/device_samsung_quincy-common",
+        "target_path": "device/samsung/quincy-common",
+        "branch": "lp5.0"
+    },
+    {
+        "repository": "SlimDev/android_kernel_samsung_msm8660-common",
+        "target_path": "kernel/samsung/msm8660",
+        "branch": "lp5.0"
+    }
+]
