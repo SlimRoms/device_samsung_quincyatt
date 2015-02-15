@@ -1,6 +1,6 @@
 [
     {
-        "repository": "SlimRoms/hardware_qcom_display-caf",
+        "repository": "SlimDev/hardware_qcom_display-caf",
         "target_path": "hardware/qcom/display-caf/msm8660",
         "branch": "lp5.0-caf-8660"
     },
@@ -10,7 +10,7 @@
         "branch": "lp5.0-caf-8960"
     },
     {
-        "repository": "SlimRoms/hardware_qcom_media-caf",
+        "repository": "SlimDev/hardware_qcom_media-caf",
         "target_path": "hardware/qcom/media-caf/msm8660",
         "branch": "lp5.0-caf-8660"
     },
