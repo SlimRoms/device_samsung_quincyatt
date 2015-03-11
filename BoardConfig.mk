@@ -37,9 +37,6 @@ DEVICE_RESOLUTION := 800x1280
 
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_quincyatt_defconfig
-TARGET_KERNEL_SOURCE := kernel/samsung/msm8660-common
-#KERNEL_TOOLCHAIN_PREFIX := arm-linux-gnueabihf-
-#KERNEL_TOOLCHAIN := "$(ANDROID_BUILD_TOP)/prebuilt/$(HOST_OS)-x86/toolchain/linaro-4.7-12.10/bin/"
 
 # Partitions
 TARGET_USERIMAGES_USE_EXT4 := true
