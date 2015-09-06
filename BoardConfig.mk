@@ -32,9 +32,6 @@ TARGET_BOOTLOADER_BOARD_NAME := MSM8660_SURF
 TARGET_OTA_ASSERT_DEVICE := SGH-I717,quincyatt
 TARGET_BOARD_INFO_FILE ?= device/samsung/quincyatt/board-info.txt
 
-# Resoultion
-DEVICE_RESOLUTION := 800x1280
-
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_quincyatt_defconfig
 
@@ -49,3 +46,6 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/quincyatt/bluetooth
+
+# TWRP-Resolution
+TW_THEME := landscape_hdpi
